@@ -1,1 +1,2 @@
 VSCode Web
+vscode.dev
